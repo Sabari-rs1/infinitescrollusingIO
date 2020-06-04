@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/infinitescrollusingIO/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/infinitescrollusingIO/static/js/main.c90e47fb.chunk.js",
+    "main.js.map": "/infinitescrollusingIO/static/js/main.c90e47fb.chunk.js.map",
+    "runtime-main.js": "/infinitescrollusingIO/static/js/runtime-main.7b97b792.js",
+    "runtime-main.js.map": "/infinitescrollusingIO/static/js/runtime-main.7b97b792.js.map",
+    "static/js/2.eb7cdaf8.chunk.js": "/infinitescrollusingIO/static/js/2.eb7cdaf8.chunk.js",
+    "static/js/2.eb7cdaf8.chunk.js.map": "/infinitescrollusingIO/static/js/2.eb7cdaf8.chunk.js.map",
+    "index.html": "/infinitescrollusingIO/index.html",
+    "precache-manifest.34ad6144639ab3f19c1d992d30985ccf.js": "/infinitescrollusingIO/precache-manifest.34ad6144639ab3f19c1d992d30985ccf.js",
+    "service-worker.js": "/infinitescrollusingIO/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/infinitescrollusingIO/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.eb7cdaf8.chunk.js.LICENSE.txt": "/infinitescrollusingIO/static/js/2.eb7cdaf8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b97b792.js",
+    "static/js/2.eb7cdaf8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c90e47fb.chunk.js"
+  ]
+}
